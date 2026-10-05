@@ -228,24 +228,6 @@ export default function App() {
           >
             <Instagram className="w-5 h-5 stroke-[1.8]" />
           </a>
-
-          {/* X (Twitter) Button */}
-          <a
-            id="button-social-x"
-            href="https://x.com/giselichorro"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="X Twitter Giseli Chorro"
-            className="w-12 h-12 rounded-[14px] bg-[#121215]/95 border border-white/[0.08] hover:border-white/[0.22] hover:bg-[#18171d] text-neutral-400 hover:text-white flex items-center justify-center transition-all duration-200 active:scale-95 shadow-sm"
-          >
-            <svg
-              viewBox="0 0 24 24"
-              className="w-[18px] h-[18px] fill-currentColor"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-            </svg>
-          </a>
         </motion.div>
       </div>
 
