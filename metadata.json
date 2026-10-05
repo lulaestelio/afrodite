@@ -1,0 +1,8 @@
+{
+  "name": "jeolia",
+  "description": "Página oficial de links exclusivos da Joelia",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
